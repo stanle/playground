@@ -1,5 +1,5 @@
 pandas
 dataset
-sqlite3
 beautifulsoup4
 schedule
+requests
