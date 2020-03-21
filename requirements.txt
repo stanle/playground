@@ -1,0 +1,4 @@
+pandas
+dataset
+sqlite3
+beautifulsoup4
